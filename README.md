@@ -197,7 +197,7 @@ GET localhost:3000/api/products/static
   "nbHits": 20
 }
 ```
-Thank you for taking the time to dive into the Store API Documentation! I truly hope this guide has been helpful in providing insights into the endpoints, functionalities, and setup process for our Node.js-based Store API. If you ever have questions, feedback, or new ideas that stem from your own implementation, please don't hesitate to get in touch. As you continue crafting your unique applications using the API, remember that your creativity knows no bounds.
+Thank you for taking the time to dive into the Store API Documentation! I truly hope this guide has been helpful in providing insights into the endpoints, functionalities, and setup process for my Node.js-based Store API. If you ever have questions, feedback, or new ideas that stem from your own implementation, please don't hesitate to get in touch. As you continue crafting your unique applications using the API, remember that your creativity knows no bounds.
 
-With sincere gratitude,
+Thank you, we can connect on Twitter, click my name 
 [Favour Markson](https://twitter.com/MarksonFavour1)
